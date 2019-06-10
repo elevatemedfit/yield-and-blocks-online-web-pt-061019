@@ -12,13 +12,15 @@ end
 hello_t(names)
 # call your method here!
 other_names = ["Ali", "Jasmine", "Persephone"]
+
 def hello_t(other_names)
-  puts other_names
+  other_names.each do |names|
+  puts names.upcase
   i = 0
-  while i < other_names.length
+  while i < names.length
     i = i + 1
 end
-other_names
+names
 end
 
 hello_t(other_names)
