@@ -20,7 +20,7 @@ def hello_t(other_names)
   while i < names.length
     i = i + 1
 end
-names
+end
 end
 
 hello_t(other_names)
