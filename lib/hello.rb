@@ -1,4 +1,4 @@
-def hello_t(names)
+def hello_t(names){|name| puts name}
 
 end
 
