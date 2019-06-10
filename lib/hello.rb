@@ -1,6 +1,5 @@
-def hello_t
+def hello_t(names)
 end
 
-end
 hello_t(names)
 # call your method here!
