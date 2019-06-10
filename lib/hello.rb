@@ -1,7 +1,6 @@
-def hello_t(names) do|name|
-  puts name
+def hello_t(names)
 end
 
 end
-
+hello_t(names)
 # call your method here!
