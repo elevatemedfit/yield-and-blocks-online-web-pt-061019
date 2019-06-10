@@ -2,7 +2,7 @@
 names = ["Tim", "Tom", "Jim"]
 def hello_t(names)
   i = 0
-  while i < names.length
+  while i < names.length+1
     i = i + 1
     puts names
 end
