@@ -1,12 +1,12 @@
 
-other_names = ["Ali", "Jasmine", "Persephone"]
-def hello_t(other_names)
-  puts other_names.upcase
+names = ["Ali", "Jasmine", "Persephone"]
+def hello_t(name)
+  puts name.upcase
   i = 0
-  while i < other_names.length
+  while i < name.length
     i = i + 1
 end
 end
 
-hello_t(other_names)
+hello_t(names)
 # call your method here!
