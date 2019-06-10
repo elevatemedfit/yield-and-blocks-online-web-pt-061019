@@ -1,12 +1,12 @@
 
-names = []
-def hello_t(names="Hey! No block was given!")
-  puts names
+other_names = ["Ali", "Jasmine", "Persephone"]
+def hello_t(other_names)
+  puts other_names
   i = 0
-  while i < names.length
+  while i < other_names.length
     i = i + 1
 end
-names
+other_names
 end
 
 hello_t(names)
