@@ -1,4 +1,6 @@
-def hello_t(names)
+def hello_t(names) do|name|
+  puts name
+end
 
 end
 
