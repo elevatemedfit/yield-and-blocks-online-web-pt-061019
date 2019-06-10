@@ -1,6 +1,6 @@
 
 names = ["Tim", "Tom", "Jim"]
-def hello_tlearn(names)
+def hello_t(names)
   i = 0
   while i < names.length
     i = i + 1
