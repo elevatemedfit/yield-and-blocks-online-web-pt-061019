@@ -1,3 +1,5 @@
+
+names = ["Tim", "Tom", "Jim"]
 def hello_t(names)
 end
 
