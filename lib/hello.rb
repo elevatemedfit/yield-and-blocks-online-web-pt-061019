@@ -1,5 +1,5 @@
 
-names = ["Ali", "Jasmine", "Persephone"]
+names = ["Tim", "Tom", "Jim"]
 def hello_t(names)
   puts names
   i = 0
