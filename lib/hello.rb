@@ -1,7 +1,7 @@
 
 names = ["Tim", "Tom", "Jim"]
 def hello_t (names)
-  puts names.each
+  puts names
 end
 
 hello_t(names)
