@@ -1,6 +1,6 @@
 
-names = ["Tim", "Tom", "Jim"]
-def hello_t(names)
+names = []
+def hello_t(names="Hey! No block was given!")
   puts names
   i = 0
   while i < names.length
