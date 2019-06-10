@@ -1,6 +1,6 @@
 
 names = ["Ali", "Jasmine", "Persephone"]
-def hello_t(name)
+def hello_t(names)
   puts name.upcase
   i = 0
   while i < name.length
