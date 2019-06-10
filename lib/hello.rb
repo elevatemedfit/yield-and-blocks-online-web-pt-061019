@@ -1,5 +1,5 @@
-def hello_t(array)
+def hello_t
 
 end
-hello_t(array)
+hello_t
 # call your method here!
