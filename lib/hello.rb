@@ -11,7 +11,7 @@ end
 
 hello_t(names)
 # call your method here!
-other_names = ["Ali", "Jasmine", "Persephone"]
+other_names = ["Tim", "Tom", "Jim"]
 
 def hello_t(other_names)
   other_names.each do |names|
