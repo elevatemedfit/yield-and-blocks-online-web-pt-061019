@@ -2,9 +2,8 @@
 names = ["Tim", "Tom", "Jim"]
 def hello_tlearn(names)
   i = 0
-  while i <array.length
-    i = i +1
-puts names
+  while i < names.length
+    i = i + 1
 end
 end
 
