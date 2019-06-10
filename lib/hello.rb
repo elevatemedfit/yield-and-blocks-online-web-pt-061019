@@ -9,5 +9,5 @@ end
 other_names
 end
 
-hello_t(names)
+hello_t(other_names)
 # call your method here!
