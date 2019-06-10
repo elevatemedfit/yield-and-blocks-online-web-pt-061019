@@ -6,7 +6,6 @@ def hello_t(other_names)
   while i < other_names.length
     i = i + 1
 end
-other_names
 end
 
 hello_t(other_names)
