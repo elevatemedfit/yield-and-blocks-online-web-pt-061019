@@ -1,9 +1,9 @@
 
 names = ["Ali", "Jasmine", "Persephone"]
 def hello_t(names)
-  puts name.upcase
+  puts names
   i = 0
-  while i < name.length
+  while i < names.length
     i = i + 1
 end
 end
